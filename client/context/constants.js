@@ -11,7 +11,7 @@ export const PINATA_SECRET_KEY = "ce9bea71753244b0e67a0b3039e09889b69d15b863d25f
 const networks = {
   telos_mainnet: {
     chainId: `0x${Number(40).toString(16)}`,
-    chainName: "Telos Mainnet",
+    chainName: "Telos EVM Mainnet",
     nativeCurrency: {
       name: "TLOS",
       symbol: "TLOS",
@@ -22,7 +22,7 @@ const networks = {
   },
   telos_testnet: {
     chainId: `0x${Number(41).toString(16)}`,
-    chainName: "Telos Testnet",
+    chainName: "Telos EVM Testnet",
     nativeCurrency: {
       name: "TLOS",
       symbol: "TLOS",
