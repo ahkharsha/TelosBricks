@@ -28,7 +28,7 @@ const networks = {
       symbol: "TLOS",
       decimals: 18,
     },
-    rpcUrls: ["https://rpc.testnet.telos.net"],
+    rpcUrls: ["https://testnet.telos.net/evm"],
     blockExplorerUrls: ["https://testnet.teloscan.io/"],
   },
   localhost: {
