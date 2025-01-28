@@ -4,8 +4,8 @@ require("dotenv").config();
 export const REAL_ESTATE_ADDRESS = "0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5";
 export const REAL_ESTATE_ABI = realEstate.abi;
 
-export const PINATA_API_KEY = "da212708ca61ceb1b91d";
-export const PINATA_SECRET_KEY = "ce9bea71753244b0e67a0b3039e09889b69d15b863d25f3b9110449afae55c05";
+export const PINATA_API_KEY = "6913532cb8a350b6dbb3";
+export const PINATA_SECRET_KEY = "0c93e6871fd49b760c5aa1461e5fb4c86e6bd3e6bdf61c3220efdc0aee4020b4";
 
 // NETWORK
 const networks = {
